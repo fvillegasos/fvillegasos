@@ -1,7 +1,7 @@
 Hi, I’m Fran (@fvillegasos), I'm a software engineer that have been working mostly in Back-End (java-spring) for distributed systems.
 
 I'm really passionate about code efficiency and I'm trying to improve my understanding of Big-0, Time Complexity and cleaner solutions for my work.
-Most of the time I have work with Java LTS (11, 17, 21), but I'm interested in learning new languages (Go or Python) or expand my knowledge beyond another fields of software engineering.
+Most of the time I have worked with Java LTS (11, 17, 21), but I'm interested in learning new languages (Go or Python) or expanding my knowledge to another fields of software engineering.
 
 ### Contact Me!
 
